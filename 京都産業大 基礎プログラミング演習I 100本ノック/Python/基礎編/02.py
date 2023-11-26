@@ -8,3 +8,4 @@ print(f"{divided} ÷ {divisor} の余りは {remain}")
 
 #参考サイト
 #https://www.freecodecamp.org/japanese/news/python-print-variable-how-to-print-a-string-and-variable/
+#https://note.nkmk.me/python-divmod-quotient-remainder/
