@@ -2,7 +2,7 @@
 
 int main(void){
 
-	//1‚Â–Ú‚Ì”šA2‚Â–Ú‚Ì”šA˜aA·AÏA¤
+	//1ã¤ç›®ã®æ•°å­—ã€2ã¤ç›®ã®æ•°å­—ã€å’Œã€å·®ã€ç©ã€å•†
 	int num1, num2, sum, diff, multi, quot, remain;
 	
 	printf("input 1st number: \n");
@@ -12,17 +12,17 @@ int main(void){
 	scanf("%d", &num2);
 
 
-    sum = num1 + num2;
+   	sum = num1 + num2;
 	diff = num1 - num2;
 	multi = num1 * num2;
 	quot = num1 / num2;
 	remain = num1 % num2;
 
 	 
-	printf("˜a: %d\n", sum); 
-	printf("·: %d\n", diff);
-	printf("Ï: %d\n", multi);
-	printf("¤: %d, —]‚è: %d\n", quot, remain);
+	printf("å’Œ: %d\n", sum); 
+	printf("å·®: %d\n", diff);
+	printf("ç©: %d\n", multi);
+	printf("å•†: %d, ä½™ã‚Š: %d\n", quot, remain);
 	
 	return 0;
 }
